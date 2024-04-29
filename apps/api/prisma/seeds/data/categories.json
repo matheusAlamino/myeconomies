@@ -3,101 +3,121 @@
     {
       "id": 1,
       "name": "Food",
+      "description": "Food related expenses",
       "userId": 1
     },
     {
       "id": 2,
       "name": "House",
+      "description": "House related expenses",
       "userId": 1
     },
     {
       "id": 3,
       "name": "Transport",
+      "description": "Transport related expenses",
       "userId": 1
     },
     {
       "id": 4,
       "name": "Others",
+      "description": "Others related expenses",
       "userId": 1
     },
     {
       "id": 5,
       "name": "Travel",
+      "description": "Travel related expenses",
       "userId": 1
     },
     {
       "id": 6,
       "name": "Vacation",
+      "description": "Vacation related expenses",
       "userId": 1
     },
     {
       "id": 7,
       "name": "Work",
+      "description": "Work related expenses",
       "userId": 1
     },
     {
       "id": 8,
       "name": "Salary",
+      "description": "Salary related expenses",
       "userId": 1
     },
     {
       "id": 9,
       "name": "Bonuses",
+      "description": "Bonuses related expenses",
       "userId": 1
     },
     {
       "id": 10,
       "name": "Investments",
+      "description": "Investments related expenses",
       "userId": 1
     },
     {
       "id": 11,
       "name": "Rental",
+      "description": "Rental related expenses",
       "userId": 1
     },
     {
       "id": 12,
       "name": "Gifts",
+      "description": "Gifts related expenses",
       "userId": 1
     },
     {
       "id": 13,
       "name": "Utilities",
+      "description": "Utilities related expenses",
       "userId": 1
     },
     {
       "id": 14,
       "name": "Insurance",
+      "description": "Insurance related expenses",
       "userId": 1
     },
     {
       "id": 15,
       "name": "Education",
+      "description": "Education related expenses",
       "userId": 1
     },
     {
       "id": 16,
       "name": "Healthcare",
+      "description": "Healthcare related expenses",
       "userId": 1
     },
     {
       "id": 17,
       "name": "Entertainment",
+      "description": "Entertainment related expenses",
       "userId": 1
     },
     {
       "id": 18,
       "name": "Clothing",
+      "description": "Clothing related expenses",
       "userId": 1
     },
     {
       "id": 19,
       "name": "Charity",
+      "description": "Charity related expenses",
       "userId": 1
     },
     {
       "id": 20,
       "name": "Savings",
+      "description": "Savings related expenses",
       "userId": 1
     }
   ]
